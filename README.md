@@ -61,9 +61,6 @@ python src/main.py
 
 This will launch the graphical user interface, where you can choose to either encode or decode a file.
 
-## Screenshots
-
-*(Placeholder for screenshots of the application)*
 
 ---
 *This tool was created with the assistance of an AI software engineering agent.*
