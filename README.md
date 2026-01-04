@@ -27,8 +27,8 @@ The following libraries are required to run the application:
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository-url>
-    cd <repository-folder>
+    git clone https://github.com/tkv-04/stego_tool.git
+    cd stego_tool
     ```
 
 2.  **Create a virtual environment:**
