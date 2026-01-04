@@ -63,4 +63,4 @@ This will launch the graphical user interface, where you can choose to either en
 
 
 ---
-*This tool was created with the assistance of an AI software engineering agent.*
+
