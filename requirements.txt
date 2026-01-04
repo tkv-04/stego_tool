@@ -1,0 +1,6 @@
+stegano
+Pillow
+opencv-python
+cryptography
+pydub
+ttkthemes
