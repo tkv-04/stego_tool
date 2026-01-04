@@ -2,10 +2,10 @@ import tkinter as tk
 from tkinter import ttk, filedialog, messagebox
 import os
 import base64
-from ..core.image_steg import encode_image, decode_image
-from ..core.audio_steg import encode_audio, decode_audio
-from ..core.video_steg import encode_video, decode_video
-from ..core.security import encrypt_data, decrypt_data
+from core.image_steg import encode_image, decode_image
+from core.audio_steg import encode_audio, decode_audio
+from core.video_steg import encode_video, decode_video
+from core.security import encrypt_data, decrypt_data
 
 class MainWindow:
     def __init__(self, root):
